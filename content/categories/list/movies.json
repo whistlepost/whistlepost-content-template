@@ -1,5 +1,0 @@
-{
-  "sling:resourceType":"wp/category",
-  "name": "Movies",
-  "color": "teal"
-}

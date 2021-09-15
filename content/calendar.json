@@ -1,8 +1,0 @@
-{
-  "sling:resourceType": "wp/calendar",
-  "jcr:primaryType": "nt:unstructured",
-  "entries": [
-    "content/articles/2021.json"
-  ],
-  "title": "My Whistlepost Site"
-}

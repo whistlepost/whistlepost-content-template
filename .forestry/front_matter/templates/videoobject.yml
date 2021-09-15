@@ -1,9 +1,0 @@
----
-label: VideoObject
-hide_body: true
-fields:
-- name: mediaObject
-  type: include
-  config: {}
-  template: mediaobject
-  label: MediaObject
