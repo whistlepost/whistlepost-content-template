@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "link": "/content/wp/index.html",
+      "target": "content/index.json"
+    },
+    {
+      "name": "Technology",
+      "target": "content/categories/list/technology.json"
+    },
+    {
+      "name": "About Us",
+      "link": "/content/wp/about.html",
+      "target": "content/about.json"
+    }
+  ],
+  "menus": [
+    "content/articles/2021.json",
+    "content/about.json"
+  ],
+  "header": [
+    "content/articles/2021.json",
+    "content/about.json"
+  ],
+  "footer": [
+    "content/categories/list/nature.json",
+    "content/categories/list/technology.json",
+    "content/categories/list/society.json"
+  ]
+}
